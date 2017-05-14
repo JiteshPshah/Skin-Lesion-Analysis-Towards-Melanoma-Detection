@@ -11,7 +11,7 @@ apply the backpropogation
 
 repeat the process
 
-Full (simplified) Network Architeture:
+###  Full (simplified) Network Architeture:
 
 [64 x 64 x 3] Input
 
